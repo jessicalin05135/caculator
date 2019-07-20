@@ -1,0 +1,148 @@
+body{
+	width:400px;
+	margin:auto;
+	height: 600px;
+	font-family: Calibri Arial;
+	background:#000;
+
+	
+}
+
+.answer{
+	
+	width: 360px;
+	height:65px;
+	margin-left:auto;
+	margin-right:auto;
+	/*background: rgba(123, 123, 123, 0.5);*/
+	text-align: right;
+	padding: 10px 25px 0px 0px;
+	font-size: 60px;
+	color: #FFF;
+
+
+}
+
+.clr{
+	clear: both;
+}
+
+#button{
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.button1{
+	float:left;
+	width:75px;
+	margin: 10px 10px;
+	height: 75px;
+	border-radius: 50%;
+	font-size: 32px;
+	background: rgba(255, 255, 255, 0.75);
+	border:none;
+	outline:none;
+	cursor: pointer;
+
+
+}
+
+/*
+.button1:hover{
+	background: rgba(255, 255, 255, 0.95);
+}
+*/
+
+.button1:active{
+	background: rgba(255, 255, 255, 0.95);
+
+}
+
+
+.button5{
+	float:left;
+	width:75px;
+	margin: 10px 10px;
+	height: 75px;
+	border-radius: 50%;
+	font-size: 32px;
+	background: rgba(255, 255, 255, 0.75);
+	border:none;
+	outline:none;
+	
+}
+/*
+.button5:hover{
+	background: rgba(255, 255, 255, 0.95);
+}
+*/
+
+.button5:active{
+	background: rgba(255, 255, 255, 0.95);
+}
+
+.button2{
+	float:left;
+	width:75px;
+	margin: 10px 10px;
+	height: 75px;
+	border-radius: 50%;
+	font-size: 35px;
+	background: rgba(253, 181, 0, 1);
+	border:none;
+	outline:none;
+	color: #FFF;
+}
+
+.button2:hover{
+	background: rgba(255, 221, 112, 1);
+}
+
+.button2:focus{
+	background: #FFF;
+	color:rgba(253, 181, 0, 1);
+}
+
+.button3{
+	float:left;
+	width:75px;
+	margin: 10px 10px;
+	height: 75px;
+	border-radius: 50%;
+	font-size: 32px;
+	background: rgba(255, 255, 255, 0.4);
+	border:none;
+	outline:none;
+	color: #FFF;
+}
+/*
+.button3:hover{
+	background: rgba(255, 209, 96, 0.65);
+}
+*/
+.button3:active{
+	background: rgba(255, 255, 255, 0.65);
+}
+
+.button4{
+	float:left;
+	width:170px;
+	margin: 10px 10px;
+	height: 75px;
+	border-radius: 30px;
+	font-size: 32px;
+	background: rgba(255, 255, 255, 0.4);
+	border:none;
+	outline:none;
+	color: #FFF;
+}
+/*
+.button4:hover{
+	background: rgba(255, 255, 255, 0.65);
+}
+*/
+.button4:active{
+	background: rgba(255, 255, 255, 0.65);
+
+}
+
